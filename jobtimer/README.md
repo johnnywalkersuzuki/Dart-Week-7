@@ -87,9 +87,11 @@ flutter pub run build_runner watch --delete-conflicting-outputs
 1:0:4 project.dart
 1:5:1 Teste na Home para popular o banco
 1:6:43: Declarar ao Isar quais são as entidades pelo Schemas em database_impl.dart, classes vêm do build_runner
-Tela de home - Parte 1 com layout superior
-Módulo de cadastro - Novo projeto
 1:10:35 Inspector - baixar a versão para Windows, pois só tem para Mac no repositório do Github
+1:15:52 Tela de home - Parte 1 com layout superior
+1:20:11 Drawer para sair
+1:21:09 Botão de seleção com PersistentHeader ao invés de ToBoxAdapter por causa do scroll, criado como um menu a parte header_projects_menu na pasta widgets
+Módulo de cadastro - Novo projeto
 Carregar Projetos no LisTile
 List Simples
 Aula 3: https://www.youtube.com/watch?v=-Qn_FiAbCIM
